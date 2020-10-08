@@ -8,5 +8,6 @@ namespace UWP_LibraryAPP
 {
     public class Class1
     {
+        // this is just to test my github issue.
     }
 }
